@@ -6,7 +6,11 @@
 </head>
 <body style="margin:0">
 
-<iframe src="./sotay1.pdf" width="100%" height="100%"></iframe>
+<iframe 
+src="https://docs.google.com/gview?url=https://tqdien.github.io/so-tay/sotay1.pdf&embedded=true"
+width="100%" 
+height="100%">
+</iframe>
 
 </body>
 </html>
